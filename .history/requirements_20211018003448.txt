@@ -1,0 +1,6 @@
+djangorestframework
+drf-yasg
+numpy
+scikit-learn
+joblib
+gunicorn
